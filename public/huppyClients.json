@@ -1,0 +1,62 @@
+[
+  {
+    "reviewId": 1,
+    "name": "Ravi Sharma",
+    "userImage": "https://randomuser.me/api/portraits/men/11.jpg",
+    "review": "Great product! Exceeded my expectations."
+  },
+  {
+    "reviewId": 2,
+    "name": "Sophia Johnson",
+    "userImage": "https://randomuser.me/api/portraits/women/21.jpg",
+    "review": "Very satisfied with the quality and delivery time."
+  },
+  {
+    "reviewId": 3,
+    "name": "James Walker",
+    "userImage": "https://randomuser.me/api/portraits/men/31.jpg",
+    "review": "Good experience overall, but packaging could be better."
+  },
+  {
+    "reviewId": 4,
+    "name": "Aditi Verma",
+    "userImage": "https://randomuser.me/api/portraits/women/41.jpg",
+    "review": "Affordable and reliable. Will definitely recommend."
+  },
+  {
+    "reviewId": 5,
+    "name": "Chris Anderson",
+    "userImage": "https://randomuser.me/api/portraits/men/51.jpg",
+    "review": "Average experience, product was slightly different than shown."
+  },
+  {
+    "reviewId": 6,
+    "name": "Emily Davis",
+    "userImage": "https://randomuser.me/api/portraits/women/61.jpg",
+    "review": "Absolutely loved it! Worth every penny."
+  },
+  {
+    "reviewId": 7,
+    "name": "Ali Khan",
+    "userImage": "https://randomuser.me/api/portraits/men/71.jpg",
+    "review": "Fast shipping and good customer support."
+  },
+  {
+    "reviewId": 8,
+    "name": "Olivia Brown",
+    "userImage": "https://randomuser.me/api/portraits/women/81.jpg",
+    "review": "Nice design and smooth performance."
+  },
+  {
+    "reviewId": 9,
+    "name": "Daniel Cooper",
+    "userImage": "https://randomuser.me/api/portraits/men/91.jpg",
+    "review": "Good value for money. Will buy again."
+  },
+  {
+    "reviewId": 10,
+    "name": "Mia Wilson",
+    "userImage": "https://randomuser.me/api/portraits/women/99.jpg",
+    "review": "Excellent service and high-quality product!"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment": "Hair Spa",
+    "image": "https://i.ibb.co/sJC1xNfL/banner.jpg",
+    "description": "A relaxing hair spa treatment to nourish and strengthen your hair.",
+    "cost": 1200
+  },
+  {
+    "id": 2,
+    "treatment": "Facial",
+    "image": "https://i.ibb.co/sJC1xNfL/banner.jpg",
+    "description": "Deep cleansing facial that rejuvenates your skin and restores glow.",
+    "cost": 1500
+  },
+  {
+    "id": 3,
+    "treatment": "Full Body Massage",
+    "image": "https://i.ibb.co/sJC1xNfL/banner.jpg",
+    "description": "A soothing massage to relieve stress and improve blood circulation.",
+    "cost": 2500
+  },
+  {
+    "id": 4,
+    "treatment": "Manicure",
+    "image": "https://i.ibb.co/sJC1xNfL/banner.jpg",
+    "description": "Professional manicure service for clean, polished nails and hands.",
+    "cost": 800
+  },
+  {
+    "id": 5,
+    "treatment": "Pedicure",
+    "image": "https://i.ibb.co/sJC1xNfL/banner.jpg",
+    "description": "Relaxing pedicure that smoothens feet and improves nail health.",
+    "cost": 900
+  },
+  {
+    "id": 6,
+    "treatment": "Haircut & Styling",
+    "image": "https://i.ibb.co/sJC1xNfL/banner.jpg",
+    "description": "Trendy haircut and styling to match your personality.",
+    "cost": 700
+  },
+  {
+    "id": 7,
+    "treatment": "Bridal Makeup",
+    "image": "https://i.ibb.co/sJC1xNfL/banner.jpg",
+    "description": "Complete bridal makeup package for your special day.",
+    "cost": 8000
+  },
+  {
+    "id": 8,
+    "treatment": "Skin Whitening Treatment",
+    "image": "https://i.ibb.co/sJC1xNfL/banner.jpg",
+    "description": "Advanced skin whitening treatment for an even and radiant tone.",
+    "cost": 5000
+  }
+]
